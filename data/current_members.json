@@ -70,5 +70,29 @@
 		"class_number": "2017",
 		"major": "Undeclared",
 		"hometown": "Who knows?"
+	},
+	{
+		"thumb": "celina_bekins.jpg",
+		"name": "Celina Bekins",
+		"bio": "<p></p>",
+		"class_number": "2018",
+		"major": "Undeclared",
+		"hometown": "Who knows?"
+	},
+	{
+		"thumb": "franton_lin.jpg",
+		"name": "Franton Lin",
+		"bio": "<p></p>",
+		"class_number": "2018",
+		"major": "Undeclared",
+		"hometown": "Who knows?"
+	},
+	{
+		"thumb": "michael_costello.jpg",
+		"name": "Michael Costello",
+		"bio": "<p>Tatiana has been involved with music on and off for most of her life, starting with playing violin, then beginning viola, and now singing.  She was exposed to acapella music at a young age, so she is absolutely thrilled that she's able to join the PowerChords.  Outside of music, she enjoys cooking, drawing, writing, and recreational and competitive mathematics.</p>",
+		"class_number": "2017",
+		"major": "Undeclared",
+		"hometown": "Who knows?"
 	}
 ]
